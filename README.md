@@ -12,6 +12,6 @@
 - 코드 간결화 및 정확도 향상
 
 ## 문제 출처
-- 백준
-- 프로그래머스
-- w3resource
+- [백준 온라인 저지](https://www.acmicpc.net)
+- [프로그래머스 - 코딩테스트 연습](https://www.programmers.co.kr/)
+- [w3resource: Web development tutorials](https://www.w3resource.com)
